@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image: url("second page/secondpagepachgroundonly.png");
+	background-size: cover;
+}
+h1{
+	margin-left: 70px;
+	margin-top: 50px;
+}
+h2{
+	margin-top: -250px;
+}
+p1{
+	margin-top: -20px;
+}
